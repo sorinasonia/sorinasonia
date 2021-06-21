@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development.
 - 🌱 I’m currently learning Javascript and React js.
 - 💞️ I’m looking to collaborate on diffrent project.
-- 📫 You can reach me bleble.erin@gmail.com.
+- 📫 You can reach me  at bleble.erin@gmail.com.
 
 <!---
 sorinasonia/sorinasonia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
